@@ -1,0 +1,125 @@
+﻿  дневник версия 5.0.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(86,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(86,25): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(141,31): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,25): error C3083: filesystem: символ слева от "::" должен представлять тип
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,37): error C2039: "path": не является членом "std".
+      C:\vcpkg-master\installed\x64-windows\include\nlohmann\json.hpp(5196,11):
+       см. объявление "std"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,37): error C2065: path: необъявленный идентификатор
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,13): error C2923: std::vector: "path" не является допустимым аргументом типа шаблон для параметра "_Ty"
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,37):
+       см. объявление "path"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,13): error C2976: std::vector: слишком мало аргументов шаблон
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+       см. объявление "std::vector"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(150,43): error C2079: "listOfFilesInDirectory" использует не имеющую определения структуру class "std::vector"
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,17): error C3083: filesystem: символ слева от "::" должен представлять тип
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,29): error C2039: "path": не является членом "std".
+      C:\vcpkg-master\installed\x64-windows\include\nlohmann\json.hpp(5196,11):
+       см. объявление "std"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,29): error C2065: path: необъявленный идентификатор
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,5): error C2923: std::vector: "path" не является допустимым аргументом типа шаблон для параметра "_Ty"
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,29):
+       см. объявление "path"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,5): error C2976: std::vector: слишком мало аргументов шаблон
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+       см. объявление "std::vector"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,35): error C2133: filepathList: неизвестный размер
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(151,35): error C2512: std::vector: нет подходящего конструктора по умолчанию
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+       см. объявление "std::vector"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,38): error C3083: filesystem: символ слева от "::" должен представлять тип
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,50): error C2039: "directory_iterator": не является членом "std".
+      C:\vcpkg-master\installed\x64-windows\include\nlohmann\json.hpp(5196,11):
+       см. объявление "std"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,22): error C2530: filepath: ссылки должны быть инициализированы
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,22): error C3531: filepath: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,50): error C3861: directory_iterator: идентификатор не найден
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(152,77): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,26): error C2663: "std::vector<_Ty,_Alloc>::push_back": нет перегруженной функции с допустимым преобразованием для указателя "this"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(870,23):
+      может быть "void std::vector<_Ty,_Alloc>::push_back(_Ty &&)"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,26):
+          void std::vector<_Ty,_Alloc>::push_back(_Ty &&): невозможно преобразовать указатель "this" из "std::vector" в "std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,13):
+              Причина: невозможно преобразовать "std::vector" в "std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,13):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(866,23):
+      или       "void std::vector<_Ty,_Alloc>::push_back(const _Ty &)"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,26):
+          void std::vector<_Ty,_Alloc>::push_back(const _Ty &): невозможно преобразовать указатель "this" из "std::vector" в "std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,13):
+              Причина: невозможно преобразовать "std::vector" в "std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,13):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(155,26):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(158,5): error C2440: return: невозможно преобразовать "std::vector" в "std::vector"
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(158,5):
+      Создать class "std::vector" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51): error C2663: "std::vector<_Ty,_Alloc>::_Unchecked_begin": нет перегруженной функции с допустимым преобразованием для указателя "this"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1854,40):
+      может быть "const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+          const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept const: невозможно преобразовать указатель "this" из "std::vector" в "const std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Причина: невозможно преобразовать "std::vector" в "const std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1850,34):
+      или       "_Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+          _Ty *std::vector<_Ty,_Alloc>::_Unchecked_begin(void) noexcept: невозможно преобразовать указатель "this" из "std::vector" в "std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Причина: невозможно преобразовать "std::vector" в "std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51): error C2663: "std::vector<_Ty,_Alloc>::_Unchecked_end": нет перегруженной функции с допустимым преобразованием для указателя "this"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1862,40):
+      может быть "const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+          const _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept const: невозможно преобразовать указатель "this" из "std::vector" в "const std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Причина: невозможно преобразовать "std::vector" в "const std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1858,34):
+      или       "_Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept"
+          C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+          _Ty *std::vector<_Ty,_Alloc>::_Unchecked_end(void) noexcept: невозможно преобразовать указатель "this" из "std::vector" в "std::vector<_Ty,_Alloc> &"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Причина: невозможно преобразовать "std::vector" в "std::vector<_Ty,_Alloc>"
+              C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(162,51):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(169,10): error C3083: filesystem: символ слева от "::" должен представлять тип
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(169,22): error C2039: "create_directory": не является членом "std".
+      C:\vcpkg-master\installed\x64-windows\include\nlohmann\json.hpp(5196,11):
+       см. объявление "std"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(169,22): error C3861: create_directory: идентификатор не найден
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(198,22): error C3083: filesystem: символ слева от "::" должен представлять тип
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(198,34): error C2039: "exists": не является членом "std".
+      C:\vcpkg-master\installed\x64-windows\include\nlohmann\json.hpp(5196,11):
+       см. объявление "std"
+  
+C:\Users\dffdf\Desktop\Новая папка (3)\дневник версия 5.0\дневник версия 5.0\дневник версия 5.0.cpp(198,34): error C3861: exists: идентификатор не найден
